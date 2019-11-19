@@ -1,2 +1,1 @@
-# PA
-programming  assignment
+# 数字图像处理实验
